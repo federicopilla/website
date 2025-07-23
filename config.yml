@@ -24,9 +24,7 @@ menu:
         - name: Data
           url: data/
           weight: 4 
-        - name: Blog
-          url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
-          weight: 6
+
 
 params:
     description: "This website hosts Federico Pilla's research papers, books, course materials, data, curriculum vitae, and contact information."
@@ -55,11 +53,15 @@ params:
     profileMode:
           enabled: true
           title: Federico Pilla
-          subtitle: "Ph.D. Candidate, University of Surrey | Macro-Labor Economics | ** On the 2025-26 Job-Market **"
+          subtitle: "Ph.D. Candidate, University of Surrey | Macro-Labor Economics | **On the 2025-26 Job-Market.**"
           imageUrl: "Federico_Pilla_photo.jpg"
           imageWidth: 160
           imageHeight: 160
           buttons:
+            - name: Job-market paper
+            - url: jmp.pdf
+            - name: Curriculum vitae
+              url: cv.pdf
             - name: Papers
               url: papers/
             - name: Data
@@ -75,7 +77,7 @@ params:
         - name: CV
           url: cv.pdf
         - name: Email
-          url: f.pilla@surrey.ac.uk
+          url: mailto:f.pilla@surrey.ac.uk
         - name: Location
           url: location/
         - name: GitHub
