@@ -55,7 +55,7 @@ params:
     profileMode:
           enabled: true
           title: Federico Pilla
-          subtitle: "Ph.D. Candidate, University of Surrey | Macro-Labor Economics | On the 2025-26 Job-Market"
+          subtitle: "Ph.D. Candidate, University of Surrey | Macro-Labor Economics | ** On the 2025-26 Job-Market **"
           imageUrl: "Federico_Pilla_photo.jpg"
           imageWidth: 160
           imageHeight: 160
@@ -64,40 +64,26 @@ params:
               url: papers/
             - name: Data
               url: data/
-            - name: Books
-              url: books/
             - name: Courses
               url: courses/
             - name: Tags
               url: tags/
             - name: Archive
               url: archive/
-            - name: Blog
-              url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
-
+              
     socialIcons:
         - name: CV
           url: cv.pdf
         - name: Email
-          url: mailto:igelfeld@regensburg.edu
-        - name: Zoom
-          url: https://www.zoom.us/my/igelfeld
+          url: f.pilla@surrey.ac.uk
         - name: Location
           url: location/
-        - name: Office Hours
-          url: officehours/
-        - name: Google Scholar
-          url: https://scholar.google.com/citations?user=cL23w-4AAAAJ
         - name: GitHub
-          url: https://github.com/pmichaillat
-        - name: Substack
-          url: https://pmichaillat.substack.com
-        - name: YouTube
-          url: https://www.youtube.com/@pmichaillat
+          url: https://github.com/federicopilla
         - name: Twitter
-          url: https://x.com/pmichaillat
-        - name: Bluesky
-          url: https://bsky.app/profile/pmichaillat.bsky.social
+          url: https://x.com/federico_pilla
+        - name: Linkedin
+          url: https://www.linkedin.com/in/federico-pilla-88374b108/
 
     assets:
         disableScrollBarStyle: true
