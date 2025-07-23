@@ -29,7 +29,7 @@ menu:
           weight: 6
 
 params:
-    description: "This website hosts Moritz-Maria von Igelfeld's research papers, books, course materials, data, curriculum vitae, and contact information."
+    description: "This website hosts Federico Pilla's research papers, books, course materials, data, curriculum vitae, and contact information."
     author: Federico Pilla
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
@@ -55,8 +55,8 @@ params:
     profileMode:
           enabled: true
           title: Federico Pilla
-          subtitle: "Ph.D. Candidate | Macro-Labor Economics | On the Job-Market 2025/2026"
-          imageUrl: "picture.jpeg"
+          subtitle: "Ph.D. Candidate, University of Surrey | Macro-Labor Economics | On the 2025-26 Job-Market"
+          imageUrl: "Federico_Pilla_photo.jpg"
           imageWidth: 160
           imageHeight: 160
           buttons:
@@ -105,7 +105,7 @@ params:
         hiddenInList: false
         hiddenInSingle: true
     label:
-      text: "Moritz-Maria von Igelfeld"
+      text: "Federico Pilla"
       icon: favicon.ico
       iconHeight: 18
 
