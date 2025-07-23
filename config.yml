@@ -54,7 +54,7 @@ params:
           enabled: true
           title: Federico Pilla
           subtitle: "Ph.D. Candidate, University of Surrey | Macro-Labor Economics | **On the 2025-26 Job-Market.**"
-          imageUrl: "Federico_Pilla_photo.jpg"
+          imageUrl: "foto_profilo.jpeg"
           imageWidth: 160
           imageHeight: 160
           buttons:
