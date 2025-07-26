@@ -59,8 +59,9 @@ params:
           imageWidth: 160
           imageHeight: 160
           buttons:
-   
-              url: papers/
+          
+            - name: Location
+              url: location/
             - name: Data
               url: data/
             - name: Courses
