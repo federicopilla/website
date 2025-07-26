@@ -59,11 +59,7 @@ params:
           imageWidth: 160
           imageHeight: 160
           buttons:
-            - name: Job-market paper
-            - url: jmp.pdf
-            - name: Curriculum vitae
-              url: cv.pdf
-            - name: Papers
+   
               url: papers/
             - name: Data
               url: data/
