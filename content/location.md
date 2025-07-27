@@ -22,7 +22,7 @@ GU2 7XH
 
 #### Office address
 
-Room AD 00  
+Room AD 1 00  
 School of Economics
 University of Surrey
 
