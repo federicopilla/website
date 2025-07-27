@@ -11,9 +11,12 @@ description: "Federico Pilla's mailing and office addresses."
 #### Mailing address
 
 Federico Pilla
-School of Economics
-University of Surrey  
-Guildford, Surrey (UK)
+Elizabeth Fry Building (AD),
+School of Economics,
+University of Surrey 
+Guildford
+Surrey (UK)
+GU2 7XH
 
 ---
 
