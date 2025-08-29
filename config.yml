@@ -73,7 +73,7 @@ params:
               
     socialIcons:
         - name: CV
-          url: cv.pdf
+          url: Federico_Pilla_CV.pdf
         - name: Email
           url: mailto:f.pilla@surrey.ac.uk
         - name: Location
