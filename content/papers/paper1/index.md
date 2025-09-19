@@ -30,7 +30,7 @@ This paper develops new measures of equilibrium unemployment for the United King
 ##### Figure 6: Estimating equilibrium Unemployment for the
 United Kingdom
 
-![](paper1.png)
+![]()
 
 ---
 
