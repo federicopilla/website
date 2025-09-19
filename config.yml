@@ -66,8 +66,6 @@ params:
           imageHeight: 160
           buttons:
 
-           - name: Papers
-              url: papers/
               
             - name: Location
               url: location/
