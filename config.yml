@@ -63,8 +63,8 @@ params:
     imageUrl: "Federico_Pilla_photo.jpg"
     imageWidth: 160
     imageHeight: 160
+    
     buttons:
-
       - name: Curriculum vitae
         url: fp_cv.pdf
       - name: Location
