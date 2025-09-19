@@ -69,6 +69,8 @@ params:
               url: fp_cv.pdf 
             - name: Location
               url: location/
+            - name: Papers
+              url: papers/
     
               
     socialIcons:
