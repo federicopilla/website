@@ -65,9 +65,12 @@ params:
           imageWidth: 160
           imageHeight: 160
           buttons:
-             name: Location
-              url: location/
 
+
+             
+            - name: Location
+              url: location/
+    
               
     socialIcons:
         - name: CV
