@@ -5,7 +5,7 @@ date: 19-09-2025
 tags: ["Uenemplyment", "UK", "Bayesian methods"]
 author: ["Boris Chftwehe","Federico Pilla","Philip Schnattinger"]
 description: "This paper introduces and describes a novel measure of the equilibrium rate of unemployment for the United Kingdom." 
----
+
 
 ##### Abstract
 
