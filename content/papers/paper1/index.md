@@ -8,7 +8,7 @@ description: "This paper introduces and describes a novel measure of the equilib
 summary: "" 
 cover:
     image: ""
-    alt: "Estimating equilibrium Unemployment for the United Kingdom"
+    alt: ""
     relative: true
 editPost:
     URL: ""
