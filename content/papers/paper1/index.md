@@ -7,7 +7,7 @@ author: ["Boris Chftwehe","Federico Pilla","Philip Schnattinger"]
 description: "This paper introduces and describes a novel measure of the equilibrium rate of unemployment for the United Kingdom." 
 summary: "" 
 cover:
-    image: "ubar.pdf"
+    image: ""
     alt: "Estimating equilibrium Unemployment for the United Kingdom"
     relative: true
 editPost:
