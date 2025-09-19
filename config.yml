@@ -66,8 +66,9 @@ params:
           imageHeight: 160
           buttons:
 
-
              
+            - name: Curriculum vitae
+               url: fp_cv.pdf 
             - name: Location
               url: location/
     
