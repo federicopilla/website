@@ -2,19 +2,12 @@
 title: "Estimating Equilibrium Unemployment for the
 United Kingdom" 
 date: 19-09-2025
-tags: [""]
+tags: ["Uenemplyment", "UK", "Bayesian methods"]
 author: ["Boris Chftwehe","Federico Pilla","Philip Schnattinger"]
 description: "This paper introduces and describes a novel measure of the equilibrium rate of unemployment for the United Kingdom." 
-summary: "" 
-cover:
-    image: ""
-    alt: ""
-    relative: true
-editPost:
-    URL: ""
-    Text: ""
 
----
+
+
 
 
 
@@ -27,16 +20,7 @@ This paper develops new measures of equilibrium unemployment for the United King
 
 ---
 
-##### Figure 6: Estimating equilibrium Unemployment for the
-United Kingdom
 
-![]()
 
----
 
----
 
-##### Related material
-
-+ [Presentation slides]()
-+ [Summary of the paper]()
