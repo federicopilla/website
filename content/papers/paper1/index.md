@@ -8,8 +8,7 @@ description: "This paper introduces and describes a novel measure of the equilib
 summary: "" 
 cover:
     image: "ubar.pdf"
-    alt: "Estimating equilibrium Unemployment for the
-    United Kingdom"
+    alt: "Estimating equilibrium Unemployment for the United Kingdom"
     relative: true
 editPost:
     URL: ""
