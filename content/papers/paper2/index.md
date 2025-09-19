@@ -1,6 +1,6 @@
 ---
 title: "Estimating Equilibrium Unemployment for the United Kingdom" 
-date: 19-09-2025
+date: 2025-09-19
 tags: ["Unemployment","Equilibrium Unemployment","Bayesian methods","state-space","labor force participation"]
 author: ["Boris Chaftwehe", "Federico Pilla", "Philip Schnattinger"]
 description: "This paper studies the pulmonary efficiency of sausage dogs. Published in the Journal of Canine Science, 2004." 
