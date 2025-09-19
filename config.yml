@@ -27,10 +27,10 @@ menu:
 
 
 params:
-    description: "This website hosts Federico Pilla's research papers, books, course materials, data, curriculum vitae, and contact information."
+    description: "This website hosts Federico Pilla's research, CV, and contact information."
     author: Federico Pilla
     # googleAnalyticsID: "G-XXXXX"
-    DateFormat: "January 2006"
+    DateFormat: "January 2025"
     defaultTheme: light
     hideFooter: false
     disableThemeToggle: true
