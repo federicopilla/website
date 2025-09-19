@@ -15,15 +15,7 @@ editPost:
 
 ---
 
----
 
-##### Download
-
-+ [Paper](paper2.pdf)
-+ [Online appendix](appendix2.pdf)
-+ [Code and data](https://github.com/pmichaillat/wunk-model)
-
----
 
 ##### Abstract
 
