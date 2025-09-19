@@ -1,8 +1,8 @@
 ---
-title: "Estimating equilibrium Unemployment for the United Kingdom" 
-date: 2004-12-28
-tags: ["zoology","sausage dogs","canine pulmonary efficiency","canine science","experimental zoology"]
-author: ["Florianus Prinzel", "Moritz-Maria von Igelfeld"]
+title: "Estimating Equilibrium Unemployment for the United Kingdom" 
+date: 19-09-2025
+tags: ["Unemployment","Equilibrium Unemployment","Bayesian methods","state-space","labor force participation"]
+author: ["Boris Chaftwehe", "Federico Pilla", "Philip Schnattinger"]
 description: "This paper studies the pulmonary efficiency of sausage dogs. Published in the Journal of Canine Science, 2004." 
 summary: "This paper studies the pulmonary efficiency of sausage dogs through several experiments." 
 cover:
