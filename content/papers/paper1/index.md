@@ -4,8 +4,8 @@ United Kingdom"
 date: 19-09-2025
 tags: [""]
 author: ["Boris Chftwehe","Federico Pilla","Philip Schnattinger"]
-description: "This paper reviews unusual uses for olive oil throughout the Mediterranean world. Published in the Journal of Oleic Science, 2013." 
-summary: "This paper introduces and describes a novel measure of the equilibrium rate of unemployment for the United Kingdom." 
+description: "This paper introduces and describes a novel measure of the equilibrium rate of unemployment for the United Kingdom." 
+summary: "" 
 cover:
     image: "ubar.pdf"
     alt: "Estimating equilibrium Unemployment for the
