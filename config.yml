@@ -72,7 +72,7 @@ params:
               
     socialIcons:
         - name: CV
-          url:  "FP_CV.pdf"
+          url:  "fp_cv.pdf"
         - name: Email
           url: mailto:f.pilla@surrey.ac.uk
         - name: Location
