@@ -6,7 +6,7 @@ author: ["Boris Chaftwehe", "Federico Pilla", "Philip Schnattinger"]
 description: "This paper provides a novel measure of the equilibrium unemployment for the United Kingdom." 
 Summary: "This paper employs Bayesian methods in a state-space framework to measure the equilibrium unemployment rate of the United Kingdom." 
 cover:
-    image: ""
+    image: "ubar.PNG"
     alt: "Estimating Equilibrium Unemployment for the United Kingdom"
     relative: true
 editPost:
@@ -25,7 +25,7 @@ This paper develops new measures of equilibrium unemployment for the United King
 
 ##### Figure 2: The Equilibrium Unemployment 
 
-![](ubar.pdf)
+![](ubar.PNG)
 
 ---
 
