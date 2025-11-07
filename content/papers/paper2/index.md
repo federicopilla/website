@@ -24,7 +24,7 @@ editPost:
 
 ##### Figure 2: The Equilibrium Unemployment 
 
-![](ubar.PNG)
+![]()
 
 ---
 
