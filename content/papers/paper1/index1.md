@@ -1,6 +1,6 @@
 ---
 title: "Explaining the Married Women’s Participation Boom: Teleworking, Couples’ Labor Supply, and the Flexibility Trap" 
-date: 2025-09-19
+date: 2025-11-19
 tags: ["Teleworking", "amenity", "joint search", "female labor supply", "labor force participation"]
 author: ["Federico Pilla"]
 description: "This paper provides novel facts on the post-pandemic behaviour of married women's labor supply. A structural model of couples' labour supply is developed to rationalize the new empirical patterns." 
