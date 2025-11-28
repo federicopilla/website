@@ -19,7 +19,8 @@ editPost:
 
 ##### Download
 
-![Paper](paper1.pdf)
+[Download PDF](paper1.pdf)
+
 
 ---
 
