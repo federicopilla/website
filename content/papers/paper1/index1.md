@@ -14,24 +14,18 @@ editPost:
     Text: ""
 
 ---
+
 ---
 
 ##### Download
 
 + [Paper](paper1.pdf)
 
-
 ---
-
-
-
----
-
-
 
 ##### Abstract
 
----
+
 Married women’s labor force participation in the U.S. reached historic highs after the COVID-19
 pandemic, despite declining real wages. I hypothesize that expansion of teleworking played a key
 role in this shift. I provide a set of novel facts to support this view. First, the participation boom
