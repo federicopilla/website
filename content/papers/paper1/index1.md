@@ -10,7 +10,7 @@ cover:
     alt: "Explaining the Married Women’s Participation Boom"
     relative: true
 editPost:
-    URL: "https://federicopilla.github.io/website/"
+    URL: "https://federicopilla.github.io/website"
     Text: "Job Market Paper Draft"
 
 ---
