@@ -53,8 +53,5 @@ central driver of post-pandemic female participation and a potential source of g
 ##### Citation
 
 
----
 
-##### Related material
 
-+ [Presentation slides]()
