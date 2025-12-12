@@ -6,7 +6,7 @@ author: ["Federico Pilla"]
 description: "This paper provides novel facts on the post-pandemic behaviour of married women's labor supply. A structural model of couples' labour supply is developed to rationalize the new empirical patterns." 
 Summary: "This paper provides novel facts on the post-pandemic behaviour of married women's labor supply. A structural model of couples' labour supply is developed to rationalize the new empirical patterns." 
 cover:
-    image: ""
+    image: "lfpr_2000q1_plot_arrow.png"
     alt: "Explaining the Married Women’s Participation Boom"
     relative: true
 editPost:
