@@ -44,7 +44,7 @@ central driver of post-pandemic female participation and a potential source of g
 
 ---
 
-##### Figure 2: Labor Force Participation by Different Group
+##### Figure 2: Labor Force Participation by Different Groups
 
 ![](lfpr_2000q1_plot_arrow.png)
 
