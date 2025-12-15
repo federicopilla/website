@@ -19,7 +19,7 @@ editPost:
 
 ##### Download
 
-+ [Paper](website/static/paper1.pdf)
++ [Paper](paper1.pdf)
 
 
 ---
