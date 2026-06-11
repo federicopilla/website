@@ -19,7 +19,7 @@ editPost:
 
 ##### Download
 
-+ [Paper](relaxing_the constraint.pdf)
++ [Paper](paper3.pdf)
 
 
 ---
