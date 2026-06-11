@@ -1,7 +1,7 @@
 ---
 title: "Relaxing the Constraints: Working from Home and Labour Supply Preferences" 
-date: 2025-11-15
-tags: ["Teleworking", "amenity", "instrument variable", "female labor supply", "COVID"]
+date: 2025
+tags: ["Teleworking", "SOEP", "instrument variable", "female labor supply", "COVID"]
 author: ["Federico Pilla", "Ludgero Glorias", "Francesca Verga"]
 description: "This paper examines how working from home affects both actual and desired working hours in Germany, using 2023 SOEP data and pre-pandemic occupational remote-work feasibility as an instrument." 
 Summary: "Working from home increases both actual and desired hours for women, suggesting that it relaxes constraints related to household responsibilities. For men, it raises actual hours but not desired hours, pointing instead to work intensification." 
