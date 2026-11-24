@@ -1,4 +1,4 @@
-ibaseURL: "https://federicopilla.github.io/website/"
+baseURL: "https://federicopilla.github.io/website/"
 title: "Federico Pilla"
 theme: PaperMod
 
@@ -15,10 +15,10 @@ menu:
         - name: Books
           url: books/
           weight: 5 
-        - name: Papers
+        - name: Research
           url: papers/
           weight: 2
-        - name: Courses
+        - name: Teaching
           url: courses/
           weight: 3
         - name: Data
@@ -53,12 +53,10 @@ params:
     profileMode:
           enabled: true
           title: Federico Pilla
-          subtitle: ">
-              Ph.D. Candidate, University of Surrey<br>
-              Macro-Labor Economics, Family Economics, Time Series Analysis<br><br>
-              Welcome! I’m Federico Pilla, a 4th-year PhD student in Economics at the University of Surrey, supervised by Rigas Oikonomou and Harris Dellas.<br>
-              My research interests are in labor economics. I study how technological, demographic, and social changes shape households' labour supply decisions.<br>
-              Previously, I worked as a PhD Intern at the Bank of England (Structural Economic Analysis Division)."
+          subtitle: >-
+              Economist · PhD in Economics, University of Surrey (2026)<br><br>
+              Quantitative Macroeconomics, Labour Economics and Time Series Analysis.<br><br>
+              My research examines how technological, demographic and social changes shape household labour supply decisions. Previously, I was a PhD intern at the Bank of England and a visiting researcher at the University of Minnesota.
               
           imageUrl: "Federico_Pilla_photo.jpg"
           imageWidth: 160
@@ -70,7 +68,7 @@ params:
               url: location/
             - name: JMP
               url: paper1.pdf
-            - name: Papers
+            - name: Research
               url: papers/
               
     
